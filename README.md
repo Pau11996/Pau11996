@@ -1,6 +1,6 @@
 # Paul11996
 
-Hi 👋 My name isPavel Kazak
+Hi 👋 My name is Pavel Kazak
 ==============================
  
 C# and JavaScript Developer
