@@ -9,22 +9,8 @@ C# and JavaScript Developer
 I started studying programming 3 years ago, I started working in September 2021. I studied c# for 8 months, worked as a Unity developer and backend developer, after which I switched to python development. There are several pet projects in python, with django, fastapi and flask. And now I'm learning fullstack development with node.js. 
  
 * 🌍  I'm based in Minsk
-* ✉️  You can contact me at [antonzakhlebayeu@gmail.com](mailto:antonzakhlebayeu@gmail.com)
- 
+* ✉️  You can contact me at  
 ### Skills
-
-C# Skills:
-----------------
-<p align="left">
-<a target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="dot-net" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="dot-net" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt="dot-net" /></a>
-<a target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="36" height="36" alt="dot-net" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/2ce3cee16b6397119acda6f20fa1c8e6b9b974bb/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
 
 Python Skills:
 ----------------
@@ -38,6 +24,8 @@ Python Skills:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
 Javascript skills:
 ----------------
