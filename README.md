@@ -21,6 +21,7 @@ Python Skills:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/757/773/png-transparent-celery-python-node-js-task-celery-miscellaneous-rectangle-grass.png" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 Javascript skills:
@@ -33,7 +34,6 @@ Javascript skills:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="36" height="36" alt="MongoDB" /></a>
 
 </p>
 
