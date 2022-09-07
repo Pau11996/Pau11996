@@ -33,6 +33,8 @@ Javascript skills:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="36" height="36" alt="MongoDB" /></a>
+
 </p>
 
 Data bases:
