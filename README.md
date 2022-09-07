@@ -6,10 +6,10 @@ Hi 👋 My name is Pavel Kazak
 C# and JavaScript Developer
 ----------------
  
-I started studying programming 3 years ago, I started working in September 2021. I studied c# for 8 months, worked as a Unity developer and backend developer, after which I switched to python development. There are several pet projects in python, with django, fastapi and flask. And now I'm learning fullstack development with node.js. 
+I started studying programming 1 years and 3 months ago, I started working in June 2022. I studied Python about 1 years and have some knowledge in backend developing in JavaScript and TypeScript, working as a backend developer. There are several pet projects in python, with django and fastapi, nestJS. 
  
 * 🌍  I'm based in Minsk
-* ✉️  You can contact me at  
+* ✉️  You can contact me at pasha.kozak.96@gmail.com
 ### Skills
 
 Python Skills:
@@ -39,6 +39,7 @@ Data bases:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/2ce3cee16b6397119acda6f20fa1c8e6b9b974bb/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Python" /></a>
 
 ### Badges
  
