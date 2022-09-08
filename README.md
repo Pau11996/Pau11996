@@ -1,5 +1,3 @@
-# Paul11996
-
 Hi 👋 My name is Pavel Kazak
 ==============================
  
