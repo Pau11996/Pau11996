@@ -1,7 +1,7 @@
 Hi 👋 My name is Pavel Kazak
 ==============================
  
-C# and JavaScript Developer
+Python and JavaScript Developer
 ----------------
  
 I started studying programming 1 years and 3 months ago, I started working in June 2022. I studied Python about 1 years and have some knowledge in backend developing in JavaScript and TypeScript, working as a backend developer. There are several pet projects in python, with django and fastapi, nestJS. 
