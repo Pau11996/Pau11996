@@ -4,7 +4,7 @@ Hi 👋 My name is Pavel Kazak
 Python and JavaScript Developer
 ----------------
  
-I started working in June 2021. I studied Python about half year and have some knowledge in backend developing in JavaScript and TypeScript, working as a backend developer. There are several pet projects in python, with django and fastapi, nestJS. 
+I am a highly motivated software engineer worked with high-quality, scalable, and reliable systems. I have experience in both microservices and monolithic architectures. Honing my skills and building a track record of delivering successful projects are my priorities.
  
 * ✉️  You can contact me at pasha.kozak.96@gmail.com
 ### Skills
