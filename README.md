@@ -19,7 +19,7 @@ Python Skills:
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="RabbitMQ" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" /></a>
 
 Javascript skills:
 ----------------
