@@ -1,7 +1,7 @@
 Hi 👋 My name is Pavel Kazak
 ==============================
  
-Python and JavaScript Developer
+Software engineer
 ----------------
  
 I am a highly motivated software engineer worked with high-quality, scalable, and reliable systems. I have experience in both microservices and monolithic architectures. Honing my skills and building a track record of delivering successful projects are my priorities.
